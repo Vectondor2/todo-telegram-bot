@@ -40,4 +40,4 @@ python bot_telegram.py
 - config/settings.py — настройки Django
 
 ## Автор
-Студент курса "Программирование на Python"
+Серікұлы Нұрдәулет
