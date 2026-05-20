@@ -1,0 +1,15 @@
+[
+    {
+        "type": "task",
+        "text": "Почистить зубы",
+        "done": false,
+        "priority": "normal"
+    },
+    {
+        "type": "urgent",
+        "text": "Сделать дз",
+        "done": false,
+        "priority": "high",
+        "deadline": "31-04-2026"
+    }
+]
